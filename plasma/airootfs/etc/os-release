@@ -1,0 +1,12 @@
+NAME="PlasmaLinux"
+VERSION="22.04.1 LTS (jammy)"
+ID=ubuntu
+ID_LIKE=debian
+PRETTY_NAME="PlasmaLinux"
+VERSION_ID="22.04.1"
+HOME_URL="https://sites.google.com/view/plasmalinuxwebsite/%E3%83%9B%E3%83%BC%E3%83%A0"
+SUPPORT_URL="https://github.com/PlasmaLinux/"
+BUG_REPORT_URL="https://github.com/PlasmaLinux"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+VERSION_CODENAME=jammy
+UBUNTU_CODENAME=jammy
